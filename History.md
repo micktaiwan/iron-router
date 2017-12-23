@@ -1,3 +1,12 @@
+v1.1.2 / 2017-2-12
+==================
+  * Bump Iron:Url version
+
+v1.1.0 / 2017-1-14
+==================
+  * Add 'noRoutesTemplate' config option
+  * Clarify default page messaging
+
 v1.0.11 / 2015-10-09
 ==================
   * Fix Iron-Layout for Meteor 1.2
