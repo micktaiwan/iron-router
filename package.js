@@ -38,7 +38,7 @@ Package.on_use(function (api) {
   api.use('iron:url@1.1.0');
 
   // for reactive urls and pushState in the browser
-  api.use('iron:location@1.0.11');
+  api.use('iron:location@1.1.0');
 
   // for RouteController which inherits from this
   api.use('iron:controller@1.0.12');
